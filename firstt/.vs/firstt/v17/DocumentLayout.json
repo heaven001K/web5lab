@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vasyl\\source\\repos\\firstt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|c:\\users\\vasyl\\source\\repos\\firstt\\firstt\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|solutionrelative:firstt\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|c:\\users\\vasyl\\source\\repos\\firstt\\firstt\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|solutionrelative:firstt\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|c:\\users\\vasyl\\source\\repos\\firstt\\firstt\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|solutionrelative:firstt\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|c:\\users\\vasyl\\source\\repos\\firstt\\firstt\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|solutionrelative:firstt\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|c:\\users\\vasyl\\source\\repos\\firstt\\firstt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|solutionrelative:firstt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|c:\\users\\vasyl\\source\\repos\\firstt\\firstt\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|solutionrelative:firstt\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|c:\\users\\vasyl\\source\\repos\\firstt\\firstt\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03DE764-730E-4470-ACCB-556F971DCE97}|firstt\\firstt.csproj|solutionrelative:firstt\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "firstt\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "firstt\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:11:22.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "firstt\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "firstt\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:11:10.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "firstt\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "firstt\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:09:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "firstt\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Models\\Contact.cs",
+              "RelativeToolTip": "firstt\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:04:32.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "firstt\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "firstt\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:04:25.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamMembers.cs",
+              "DocumentMoniker": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Models\\TeamMembers.cs",
+              "RelativeDocumentMoniker": "firstt\\Models\\TeamMembers.cs",
+              "ToolTip": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Models\\TeamMembers.cs",
+              "RelativeToolTip": "firstt\\Models\\TeamMembers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:03:59.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "firstt\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vasyl\\source\\repos\\firstt\\firstt\\Views\\About\\Index.cshtml*",
+              "RelativeToolTip": "firstt\\Views\\About\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:01:55.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
