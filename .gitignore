@@ -1,0 +1,41 @@
+# Visual Studio temporary files
+.vs/
+*.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# NuGet packages
+*.nupkg
+packages/*
+*.snupkg
+
+# Azure Web Apps
+*.Publish.xml
+
+# Other files and folders
+appsettings.json
+appsettings.*.json
+*.db
+*.db-journal
+
+# Backup files
+*~ 
+*.bak
+*.tmp
